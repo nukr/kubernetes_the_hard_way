@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gcloud config set compute/region asia-east1
+gcloud config set compute/zone asia-east1-a
